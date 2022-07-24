@@ -29,6 +29,6 @@
 
  }
  else{
-   document.querySelector("h1").innerHTML = "💔 भाई तेरा यहाँ भी कुछ नहीं हो सकता ! "
+   document.querySelector("h1").innerHTML = "❤ DRAW ! "
 
  }
